@@ -1,1 +1,4 @@
-
+mkdir cell00
+cd cell00
+mkdir ex00
+touch .gitkeep
